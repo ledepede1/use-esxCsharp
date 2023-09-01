@@ -69,7 +69,7 @@ Then build your solution and put it inside the `Client` folder.
 Then ensure the script and test.
 
 ##
-*You can make much more that just a event that gives money.*
+<p>*You can make much more that just a event that gives money.*</p>
 Examples:
 ```lua
 RegisterServerEvent('esxGuide:RemoveMoney')
