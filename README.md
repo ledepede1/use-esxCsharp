@@ -68,10 +68,9 @@ API.RegisterCommand("getmoney", new Action<int, List<object>, string>((source, a
 Then build your solution and put it inside the `Client` folder. 
 Then ensure the script and test.
 
+
 ##
-You can make much more that just a event that gives money.
-##
-Examples:
+Other Examples:
 ```lua
 RegisterServerEvent('esxGuide:RemoveMoney')
 AddEventHandler('esxGuide:RemoveMoney', function(amount)
@@ -82,7 +81,7 @@ AddEventHandler('esxGuide:RemoveMoney', function(amount)
 end)
 ```
 
-```
+```lua
 RegisterServerEvent('esxGuide:GetFirstName')
 AddEventHandler('esxGuide:GetFirstName', function(amount)
 
