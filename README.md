@@ -49,7 +49,8 @@ end)
 
 ```
 Right so what we are doing is calling esx inside the `Server.lua`
-And creating a ServerEvent that gives money to the source called ```lua esxGuide:AddMoney```.
+And creating a ServerEvent that gives money to the source called ```lua 
+esxGuide:AddMoney```.
 
 ## -- Use ESX in C# --
 Okay now we have done that you will need to make a basic script 
