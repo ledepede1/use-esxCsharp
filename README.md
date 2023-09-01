@@ -94,8 +94,5 @@ end)
 ```
 *and much much more!*
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contact+me+on;@ledepede1+on+discord.)](https://git.io/typing-svg)
- <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Contact+me+on;%40ledepede+1+on+discord.)](https://git.io/typing-svg)
   
