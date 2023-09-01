@@ -94,5 +94,5 @@ end)
 ```
 *and much much more!*
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Contact+me+on;%40ledepede+1+on+discord.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Contact+me+on:;%40ledepede1+on+discord.)](https://git.io/typing-svg)
   
