@@ -70,7 +70,7 @@ Then ensure the script and test.
 
 ##
 You can make much more that just a event that gives money.
-#####
+##
 Examples:
 ```lua
 RegisterServerEvent('esxGuide:RemoveMoney')
