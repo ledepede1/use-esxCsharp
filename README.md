@@ -57,7 +57,7 @@ Okay now we have done that you will need to make a basic script
 
 Okay, inside your script you will need to add the following:
 ```c#
-RegisterCommand("getmoney", new Action<int, List<object>, string>((source, args, rawCommand) =>
+API.RegisterCommand("getmoney", new Action<int, List<object>, string>((source, args, rawCommand) =>
 {
   int amount = 1000;
   TriggerServerEvent("('esxGuide:AddMoney", amount);
