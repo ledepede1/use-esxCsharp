@@ -24,11 +24,11 @@ server_scripts {
   'Server/Server.lua',
 }
 ```
-### -- Creating folders and files --
+## -- Creating folders and files --
 Right now you have made the fxmanifest.lua, you will ned to make two folder called `Client` `Server`
 And after that add a file inside the `Server` folder named `Server.lua`.
 
-#### -- Server.lua --
+## -- Server.lua --
 Go inside the Server.lua that you just created.
 And for this guide we will make a script that gives money to the player.
 So we need to type in the following:
@@ -51,7 +51,7 @@ end)
 Right so what we are doing is calling esx inside the `Server.lua`
 And creating a ServerEvent that gives money to the source called `esxGuide:AddMoney`.
 
-#### -- Use ESX in C# --
+## -- Use ESX in C# --
 Okay now we have done that you will need to make a basic script 
 - If you dont know how to make one look up this: https://docs.fivem.net/docs/scripting-manual/runtimes/csharp/
 
