@@ -24,7 +24,7 @@ server_scripts {
   'Server/Server.lua',
 }
 ```
-## -- Creating folders and files --
+## # Creating folders and files #
 Right now you have made the fxmanifest.lua, you will ned to make two folders called `Client` and `Server`
 And after that add a file inside the `Server` folder named `Server.lua`.
 
