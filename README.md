@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/ledepede1/hits/)
 
 # USE ESX IN C#
 Hello welcome to this guide to use ESX in C#.
